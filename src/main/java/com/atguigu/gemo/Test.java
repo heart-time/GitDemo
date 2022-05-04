@@ -12,5 +12,6 @@ public class Test {
         System.out.println("Hello!Git4");
         System.out.println("Hello!Master-Test");
         System.out.println("Hello!Hot-Fix");
+        System.out.println("Hello!Test-Gitee!!");
     }
 }
