@@ -13,6 +13,7 @@ public class Test {
         System.out.println("Hello!Master-Test");
         System.out.println("Hello!Hot-Fix");
         System.out.println("Hello!Test-Gitee!!");
-         System.out.println("Hello!测试一下");
+        System.out.println("Hello!测试一下");
+        System.out.println("ssm的基础git");
     }
 }
